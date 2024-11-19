@@ -1,0 +1,14 @@
+C:\Users\ABICOM\Desktop\New folder\oeo\bin\Debug\net8.0\oeo.exe
+C:\Users\ABICOM\Desktop\New folder\oeo\bin\Debug\net8.0\oeo.deps.json
+C:\Users\ABICOM\Desktop\New folder\oeo\bin\Debug\net8.0\oeo.runtimeconfig.json
+C:\Users\ABICOM\Desktop\New folder\oeo\bin\Debug\net8.0\oeo.dll
+C:\Users\ABICOM\Desktop\New folder\oeo\bin\Debug\net8.0\oeo.pdb
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.AssemblyInfoInputs.cache
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.AssemblyInfo.cs
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.csproj.CoreCompileInputs.cache
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.dll
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\refint\oeo.dll
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.pdb
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\oeo.genruntimeconfig.cache
+C:\Users\ABICOM\Desktop\New folder\oeo\obj\Debug\net8.0\ref\oeo.dll
